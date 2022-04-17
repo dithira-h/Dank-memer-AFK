@@ -1,6 +1,6 @@
 #this is only for educational purposes only :D
 #this is not meant to attack dank memer or to break it :)
-
+#TYPE pip install pyautogui IN YOUR TERMINAL
 import pyautogui, time
 
 RED     = '\033[31m'  #the hex color codes for python
